@@ -1,0 +1,6 @@
+{
+  "name": "Derma Remedy Luxe Clinic",
+  "description": "Premier Aesthetic Dermatology, Skin & Laser Clinic in Ashta, Maharashtra. Rewrite Your Skin Story with personalized medical skincare and laser artistry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
